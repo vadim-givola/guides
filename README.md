@@ -7,10 +7,10 @@ Guides for getting things done, programming well, and programming in style.
 * [Best Practices](./best-practices)
 * [How to](./how-to)
 * [Workflow](./workflow)
-  * [Communication](./protocol/communication)
-  * [Git](./protocol/git)
-	* [Code Review](./code-review)
-	* [Testing](./testing)
+  * [Communication](./workflow/communication)
+  * [Git](./workflow/git)
+	* [Code Review](./workflow/code-review)
+	* [Testing](./workflow/testing)
 * [Security](./security)
 
 High level guidelines:
